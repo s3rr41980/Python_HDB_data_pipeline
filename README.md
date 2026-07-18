@@ -6,7 +6,7 @@ This repository contains my submission for the Senior Data Engineer technical as
 
 The notebook demonstrates an end-to-end ETL pipeline using the Singapore Data.gov.sg HDB resale API. The solution follows a layered architecture consisting of Bronze, Silver and Gold data layers, with data quality validation, business transformations, audit reporting and output generation.
 
-The implementation emphasises readability, maintainability and traceability. Each stage of the pipeline is separated into logical sections and includes inline comments explaining the purpose of the implementation.
+The implementation emphasises readability, maintainability, auditability and traceability through clearly separated pipeline stages, validation checkpoints and inline documentation.
 
 ---
 

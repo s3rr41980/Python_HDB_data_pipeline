@@ -14,9 +14,8 @@ The implementation emphasises readability, maintainability, auditability and tra
 
 ```
 .
-├── notebook.ipynb
 ├── README.md
-├── requirements.txt
+├── hdb_resale_pipeline.ipynb
 ├── output/
 │   ├── raw/
 │   ├── cleaned/

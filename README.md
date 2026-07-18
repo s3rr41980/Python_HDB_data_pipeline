@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains my submission for the Senior Data Engineer technical assessment.
+This repository contains my submission for the Data Engineer technical assessment.
 
 The notebook demonstrates an end-to-end ETL pipeline using the Singapore Data.gov.sg HDB resale API. The solution follows a layered architecture consisting of Bronze, Silver and Gold data layers, with data quality validation, business transformations, audit reporting and output generation.
 

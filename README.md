@@ -1,5 +1,3 @@
-# Python_HDB_data_pipeline
-
 # HDB Resale ETL Pipeline
 
 ## Overview
@@ -55,16 +53,16 @@ The output folders will be created automatically when the notebook is executed.
 ### Silver Layer
 
 - Create working dataset
-- Standardise data types
-- Resolve duplicate composite keys
-- Perform basic data standardisation
-- Profile dataset quality
-- Validate source record integrity
-- Perform data quality validation using Great Expectations
-- Apply quality gate
-- Recompute remaining lease
-- Generate resale identifier
-- Hash resale identifier using SHA-256
+- Clean: Standardise data types
+- Clean: Resolve duplicate composite keys
+- Clean: Perform basic data standardisation
+- Profile: Profile dataset quality
+- Profile: Validate source record integrity
+- Quality Control: Perform data quality validation using Great Expectations
+- Quality Control: Apply quality gate
+- Transform: Recompute remaining lease
+- Transform: Generate resale identifier
+- Transform: Hash resale identifier using SHA-256
 - Compare data protection techniques
 
 ### Gold Layer

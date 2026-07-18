@@ -10,6 +10,10 @@ The implementation emphasises readability, maintainability, auditability and tra
 
 ---
 
+![Jupyter Notebook Structure 1](images_and_videos/Overall%20project%20image.png)
+![Jupyter Notebook Structure 2](images_and_videos/Overall%20project%20image.png)
+
+
 ## Repository Structure
 
 ```

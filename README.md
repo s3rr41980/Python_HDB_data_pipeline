@@ -10,8 +10,8 @@ The implementation emphasises readability, maintainability, auditability and tra
 
 ---
 
-![Jupyter Notebook Structure 1](Jupyter_1.png)
-![Jupyter Notebook Structure 2](Jupyter_2.png)
+![Jupyter Notebook Structure 1](Jupyter_3.png)
+![Jupyter Notebook Structure 2](Jupyter_4.png)
 
 
 ## Repository Structure
